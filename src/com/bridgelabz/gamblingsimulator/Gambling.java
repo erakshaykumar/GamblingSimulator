@@ -1,7 +1,7 @@
 package com.bridgelabz.gamblingsimulator;
 
 public class Gambling {
-	static int stake = 100 ;		 // Total Stake Value = $100
+	public static int stake = 100 ;		 // Total Stake Value = $100
 
 	public static void checkWinner() {
 		System.out.println("Welcome To Gambling Simulator");
